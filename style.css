@@ -58,6 +58,7 @@ article.media-post > footer ul {
 }
 
 .activated-heart {
+  size: 800px;
   color: red;
 }
 
